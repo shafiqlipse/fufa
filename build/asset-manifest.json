@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6785a953.chunk.css",
+    "main.js": "/static/js/main.3f6e5dc8.chunk.js",
+    "main.js.map": "/static/js/main.3f6e5dc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
+    "static/js/2.32df19a0.chunk.js": "/static/js/2.32df19a0.chunk.js",
+    "static/js/2.32df19a0.chunk.js.map": "/static/js/2.32df19a0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6785a953.chunk.css.map": "/static/css/main.6785a953.chunk.css.map",
+    "static/js/2.32df19a0.chunk.js.LICENSE.txt": "/static/js/2.32df19a0.chunk.js.LICENSE.txt",
+    "static/media/ImageOne.0cf8f909.jpg": "/static/media/ImageOne.0cf8f909.jpg",
+    "static/media/fwcup.scss": "/static/media/ImageOne.b1942739.png",
+    "static/media/airtel.ada9b456.png": "/static/media/airtel.ada9b456.png",
+    "static/media/away.86419657.png": "/static/media/away.86419657.png",
+    "static/media/fufa.1ed62c36.jpg": "/static/media/fufa.1ed62c36.jpg",
+    "static/media/home.cf4491b2.png": "/static/media/home.cf4491b2.png",
+    "static/media/imageThree.cc7bd54c.jpg": "/static/media/imageThree.cc7bd54c.jpg",
+    "static/media/imageTwo.f6eafbfe.jpg": "/static/media/imageTwo.f6eafbfe.jpg",
+    "static/media/images.2f94a033.png": "/static/media/images.2f94a033.png",
+    "static/media/jerseybg.47ad0971.png": "/static/media/jerseybg.47ad0971.png",
+    "static/media/new.8bc38d45.png": "/static/media/new.8bc38d45.png",
+    "static/media/nile.4fc1cb98.jpg": "/static/media/nile.4fc1cb98.jpg",
+    "static/media/picture.11f62ec6.png": "/static/media/picture.11f62ec6.png",
+    "static/media/rank.64d701a1.png": "/static/media/rank.64d701a1.png",
+    "static/media/stan.4a2b9c70.jfif": "/static/media/stan.4a2b9c70.jfif",
+    "static/media/star.e9d844d3.png": "/static/media/star.e9d844d3.png",
+    "static/media/shoping.scss": "/static/media/trt.d0715d25.png",
+    "static/media/womenrank.4ec6dbca.png": "/static/media/womenrank.4ec6dbca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f027f2bf.js",
+    "static/js/2.32df19a0.chunk.js",
+    "static/css/main.6785a953.chunk.css",
+    "static/js/main.3f6e5dc8.chunk.js"
+  ]
+}
